@@ -1,3 +1,14 @@
+<h1> REACT İLE HAVA DURUMU UYGULAMASI</h1>
+
+<p> Bu Proje React Kullanılarak Yapılmıştır.
+
+Şehrinizle ilgili hava durumu bilgilerini bu uygulama sayesinde öğrenebilirsiniz.
+</p>
+
+<img src= "./Weather-App.gif">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
